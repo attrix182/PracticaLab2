@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohlNV0Rvpq+Pb/VP5ScZmczg7IvtL+VkELSilIlujm1OmH2NayhafwFBzMRxwcB5YqMzA+dHuqQOoNcc+wCRfQ==",
+  "success": true,
+  "projectFilePath": "D:\\Usuarios\\Lucho\\Facultad\\Lab-Prog\\VS Proyectos\\Lavadero\\Lavadero\\Lavadero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lucho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

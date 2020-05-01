@@ -1,0 +1,7 @@
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\LavaderoCA\bin\Debug\LavaderoCA.exe.config
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\LavaderoCA\bin\Debug\LavaderoCA.exe
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\LavaderoCA\bin\Debug\LavaderoCA.pdb
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\LavaderoCA\obj\Debug\LavaderoCA.csprojAssemblyReference.cache
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\LavaderoCA\obj\Debug\LavaderoCA.csproj.CoreCompileInputs.cache
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\LavaderoCA\obj\Debug\LavaderoCA.exe
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\LavaderoCA\obj\Debug\LavaderoCA.pdb

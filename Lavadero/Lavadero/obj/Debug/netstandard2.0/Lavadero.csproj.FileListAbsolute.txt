@@ -1,0 +1,9 @@
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\Lavadero\bin\Debug\netstandard2.0\Lavadero.deps.json
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\Lavadero\bin\Debug\netstandard2.0\Lavadero.dll
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\Lavadero\bin\Debug\netstandard2.0\Lavadero.pdb
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\Lavadero\obj\Debug\netstandard2.0\Lavadero.csprojAssemblyReference.cache
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\Lavadero\obj\Debug\netstandard2.0\Lavadero.csproj.CoreCompileInputs.cache
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\Lavadero\obj\Debug\netstandard2.0\Lavadero.AssemblyInfoInputs.cache
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\Lavadero\obj\Debug\netstandard2.0\Lavadero.AssemblyInfo.cs
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\Lavadero\obj\Debug\netstandard2.0\Lavadero.dll
+D:\Usuarios\Lucho\Facultad\Lab-Prog\VS Proyectos\Lavadero\Lavadero\obj\Debug\netstandard2.0\Lavadero.pdb
